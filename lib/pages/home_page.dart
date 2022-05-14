@@ -35,7 +35,7 @@ class HomePage extends StatelessWidget {
               UserCard(
                 userType: "Conductor",
                 imgUrl: "assets/img/driver.png",
-                context: context,
+                context: context, 
               )
             ],
           ),
